@@ -1,0 +1,19 @@
+{
+  "name": "user-management-node",
+  "version": "1.0.0",
+  "description": "User Management System API",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Bakkiyaraj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
