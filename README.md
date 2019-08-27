@@ -3,17 +3,6 @@
 
 User Management System - REST API with Nodejs, ExpressJS &amp; MongoDB.
 
-  
-  
-
- - [Live demo](#live-demo)
- - [Usage](#usage)
- - [Database](#database)
- - [Endpoints](#endpoints)
- - [ - - Users](#users)
- - [ - - Groups](#groups)
- - [ - - Statistics](#statistics)
- 
 
 ## Usage
 
