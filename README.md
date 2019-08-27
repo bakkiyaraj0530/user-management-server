@@ -1,7 +1,7 @@
 
-# user-management-node
+# user-management-server
 
-Simple User Management System - REST API with Nodejs, ExpressJS &amp; MongoDB.
+User Management System - REST API with Nodejs, ExpressJS &amp; MongoDB.
 
   
   
@@ -13,18 +13,11 @@ Simple User Management System - REST API with Nodejs, ExpressJS &amp; MongoDB.
  - [ - - Users](#users)
  - [ - - Groups](#groups)
  - [ - - Statistics](#statistics)
-
-## Live demo:
-
-https://user-management-node.herokuapp.com/
-
-  
-  
+ 
 
 ## Usage
 
   
-
 ``` bash
 
 # install dependencies
@@ -38,15 +31,15 @@ $ npm start
 ```
 
   
-
 ## Database
 
 Used MongoDB with Mongoose. <br />
 
 You can change database details from **./config.js** file
 
-  
-  
+Then start the application in localhost with 7001.
+
+[http://localhost:7001/api](http://localhost:7001/api)
 
 ## Endpoints
 
